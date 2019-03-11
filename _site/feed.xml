@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-03-02T07:46:19-06:00</updated>
+  <updated>2019-03-11T14:40:29-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,40 @@
   
 
   
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="http://localhost:4000/github/2019/03/11/project-2/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2019-03-11T00:00:00-05:00</published>
+      <updated>2019-03-11T00:00:00-05:00</updated>
+      <id>http://localhost:4000/github/2019/03/11/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/github/2019/03/11/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Github" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Project 4</title>
@@ -75,74 +109,6 @@
 
       
         <category term="Mobile Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/web%20development/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2014-07-17T00:00:00-05:00</published>
-      <updated>2014-07-17T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/project-2/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/web%20development/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00-05:00</published>
-      <updated>2014-07-16T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/project-3/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
       
 
       
