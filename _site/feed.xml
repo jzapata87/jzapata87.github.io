@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-03-11T15:19:04-05:00</updated>
+  <updated>2019-04-16T23:46:21-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/backend%20development/2018/02/01/project-4/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Project 3</title>
+      <link href="http://localhost:4000/backend%20development/2018/02/01/project-3/" rel="alternate" type="text/html" title="Project 3" />
       <published>2018-02-01T00:00:00-06:00</published>
       <updated>2018-02-01T00:00:00-06:00</updated>
-      <id>http://localhost:4000/backend%20development/2018/02/01/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/backend%20development/2018/02/01/project-4/"></content>
+      <id>http://localhost:4000/backend%20development/2018/02/01/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/backend%20development/2018/02/01/project-3/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Project 1</title>
-      <link href="http://localhost:4000/mobile%20development/2018/01/01/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <link href="http://localhost:4000/project/2018/01/01/project-1/" rel="alternate" type="text/html" title="Project 1" />
       <published>2018-01-01T00:00:00-06:00</published>
       <updated>2018-01-01T00:00:00-06:00</updated>
-      <id>http://localhost:4000/mobile%20development/2018/01/01/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/mobile%20development/2018/01/01/project-1/"></content>
+      <id>http://localhost:4000/project/2018/01/01/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/project/2018/01/01/project-1/"></content>
 
       
       
@@ -108,7 +108,7 @@
       </author>
 
       
-        <category term="Mobile Development" />
+        <category term="Project" />
       
 
       
