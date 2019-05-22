@@ -4,7 +4,7 @@ modal-id: 1
 date: 2018-01-01
 text1: "Emojo"
 text2: ""
-src: https://www.youtube.com/embed/3qxziicn-RM
+src: https://www.youtube.com/embed/HmobculGVqo
 alt: image-alt
 project-date: Jan 2019
 client: React-native
