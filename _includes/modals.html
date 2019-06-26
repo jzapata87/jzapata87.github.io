@@ -15,10 +15,11 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             {% if post.src %}
-                                <iframe width="560" height="315" src="/img/portfolio/{{ post.src }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="{{ post.src }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             {% endif %}
                             {% if post.img %}
-                                <img id="myImg" src="{{ post.img }}" alt="Snow" width="560" height="315">
+                              <a href={{ post.src }}>
+                                <img id="myImg" src="/img/portfolio/{{ post.img }}" alt="Snow" width="560" height="315"></a>
                             {% endif %}
                             
                             {% if post.description %}
