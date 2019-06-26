@@ -1,1 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2019-06-26
+text1: "Phoenix/Elixir"
+text2: "based project"
+src: 
+alt: image-alt
+project-date: June 2019
+client: Reactjs, Phoenix
+category: Frontend/Backend Development
+description: I am going to build a simple application to demonstrate the use of phoenix channels and phoenix presence. I also integrated a redis-like geoserver called Tile38.
 
+---
