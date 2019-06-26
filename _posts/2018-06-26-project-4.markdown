@@ -4,6 +4,7 @@ modal-id: 2
 date: 2019-06-26
 text1: "Phoenix/Elixir"
 text2: "based project"
+img: Screen Shot 2019-06-26 at 1.04.50 PM.png
 src: http://monserratzsprojects.com/
 alt: image-alt
 project-date: June 2019
