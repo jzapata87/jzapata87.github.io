@@ -7,7 +7,7 @@ text2: ""
 src: https://www.youtube.com/embed/HmobculGVqo
 alt: image-alt
 project-date: Jan 2019
-client: React-native
+client: React-native, AWS, sequelize, cloud storage (AWS-S3), postgresql
 category: Project
 description: This is a project that will involve using react-native to make an app using instagram layout.
 
