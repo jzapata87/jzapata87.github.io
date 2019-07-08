@@ -6,9 +6,7 @@ text1: "AWS S3 Photo"
 text2: "Uploading"
 src: https://www.youtube.com/embed/F_fQuIDaqL8
 alt: image-alt
-project-date: Feb 2018
 client: Nodejs
-category: Backend Development
 description: I am going to build a simple application to demonstrate how to upload a photo to an AWS s3 bucket.
 
 ---
