@@ -6,9 +6,7 @@ text1: "Medium's Blog"
 text2: "Interface"
 src: https://www.youtube.com/embed/FW214WbsseQ
 alt: image-alt
-project-date: March 2019
 client: Reactjs
-category: Github
 description: This is my attempt to make a working WYSIWYG editor. I am going after what Medium has on their website.
 
 ---
